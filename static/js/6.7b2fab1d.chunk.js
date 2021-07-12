@@ -1,0 +1,2 @@
+(this.webpackJsonpinstagram=this.webpackJsonpinstagram||[]).push([[6],{70:function(t,e,n){"use strict";n.r(e),n.d(e,"default",(function(){return r}));var c=n(3),s=n.n(c),a=n(8);function r(){return s.a.useEffect((function(){document.title="Not Found!"}),[]),Object(a.jsx)("div",{className:"bg-gray-background",children:Object(a.jsx)("div",{className:"mx-auth max-w-screen-lg",children:Object(a.jsx)("p",{className:"text-center text-2xl",children:"Not Found!"})})})}}}]);
+//# sourceMappingURL=6.7b2fab1d.chunk.js.map
